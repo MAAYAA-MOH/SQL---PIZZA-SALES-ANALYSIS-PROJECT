@@ -125,8 +125,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any inquiries or feedback, please contact me at angel.purnimatripathi@gmail.com.
 Contributions to this project are welcome! If you have suggestions for improvements or additional questions, please fork the repository and submit a pull request.
 
-**License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-**Contact**
-For any inquiries or feedback, please contact me at angel.purnimatripathi@gmail.com.
