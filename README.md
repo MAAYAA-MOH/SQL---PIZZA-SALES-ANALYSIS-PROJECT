@@ -36,6 +36,7 @@ The dataset used in this analysis simulates a pizza sales environment. It includ
 *  Skills demonstrated: LIMIT clause, ORDER BY for ranking results.
 
 **Intermediate Level**
+
 6. Join the necessary tables to find the total quantity of each pizza category ordered:
 *  This query combines tables to sum the quantities of each pizza category.
 *  Skills demonstrated: JOIN operations and SUM() aggregation.
@@ -57,6 +58,7 @@ The dataset used in this analysis simulates a pizza sales environment. It includ
 *  Skills demonstrated: Revenue calculation, ORDER BY with LIMIT.
 
 **Advanced Level**
+
 11. Calculate the percentage contribution of each pizza type to total revenue:
 *  This query calculates the revenue percentage each pizza type contributes to the overall sales.
 *  Skills demonstrated: Window functions, percentage calculation using SQL.
@@ -96,7 +98,9 @@ The dataset used in this analysis simulates a pizza sales environment. It includ
 * SQL Workbench or VS Code with SQLTools: Recommended for running and managing SQL queries.
 
 **Setup Instructions**
+
 *Clone this repository:*
+
 Click on the "File" menu and select "Clone repository...".
 In the window that appears, select the "URL" tab.
 Paste the URL of the repository (https://github.com/MAAYAA-MOH/SQL---PIZZA-SALES-ANALYSIS-PROJECT.git) into the input field.
