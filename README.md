@@ -125,7 +125,13 @@ Contributions to this project are welcome! If you have suggestions for improveme
 **License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-**Contact**
-For any inquiries or feedback, please contact me at angel.purnimatripathi@gmail.com.
-Contributions to this project are welcome! If you have suggestions for improvements or additional questions, please fork the repository and submit a pull request.
+
+**Contact Information:**
+
+- **Email**: angel.purnimatripathi@gmail.com
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/purnimatripathi1111/)
+- **GitHub**: [My GitHub Profile](https://github.com/MAAYAA-MOH)
+
+
+
 
